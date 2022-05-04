@@ -2,8 +2,10 @@
 """
 Created on Wed May  4 19:46:43 2022
 
-@author: jane.oliveira_dp6
+@author: jane.oliveira
 """
+
+'''Desafio 7'''
 ## O programa abaixo deve calcular a média dos valores digitados pelo usuário.
 ## No entanto, ele não está funcionando bem. Você pode consertá-lo?
 
