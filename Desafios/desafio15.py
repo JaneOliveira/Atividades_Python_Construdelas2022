@@ -2,7 +2,7 @@
 """
 Created on Fri May 13 19:40:58 2022
 
-@author: jane.oliveira_dp6
+@author: jane.oliveira
 """
 
 # Crie uma classe que modele o objeto "carro".
@@ -67,8 +67,6 @@ def main():
     carro.desacelera()
     carro.desacelera()
     
-    
-
 
 if __name__ == '__main__':
     main()
